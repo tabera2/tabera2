@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabera2" alt="tabera2" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, React, and C#**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **iOS and Web app development**
 
