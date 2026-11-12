@@ -1,11 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Tsiyon</h1>-->
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
-    <img alt="Hi, I'm Tsiyon" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
-  </picture>
-</div>
+<h1 align="center">Hi 👋, I'm Tsiyon</h1>
 
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
@@ -14,25 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabera2" alt="tabera2" /></a> </p>
 
 
-<!-- <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
-    <img alt="Hi, I'm Tsiyon" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
-  </picture>
-
-  ### Software Engineer | Full-Stack & Backend Development
-
-  Building thoughtful software, scalable systems, and AI-powered applications.
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsiyon-abera-444baa257/)
-  [![Email](https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tsiyon.abera1@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-101827?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tabera1/)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=tabera2&label=Profile%20Views&color=0D9488&style=flat)
-
-</div>
--->
 
 - 🌱 I’m currently learning **RAG**
 
