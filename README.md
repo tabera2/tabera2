@@ -3,10 +3,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=F178A2&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B"
+      srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=F178A2&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=A33C64&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B"
+      src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=A33C64&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon"
       alt="Hi, I'm Tsiyon"
     />
   </picture>
@@ -40,7 +40,7 @@
 - 💻 Interested in **Full-Stack Development, Backend Engineering & AI/ML**
 - 🌱 Currently exploring **RAG, AI Agents & Distributed Systems**
 - 👯 Open to collaborating on **Web and iOS applications**
-- 🧩 Practicing **DSA & LeetCode** — looking for an accountability buddy!
+- 🧩 Practicing **DSA & LeetCode**: reach out if you want to practice together!
 - 📫 Reach me at **[Tsiyon.abera1@gmail.com](mailto:Tsiyon.abera1@gmail.com)**
 
 ### Connect With Me
@@ -48,9 +48,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/tsiyon-abera-444baa257/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/zion_d.a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="40" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/profile/tabera1">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40" alt="HackerRank"/>
