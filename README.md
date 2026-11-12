@@ -1,6 +1,40 @@
-<h1 align="center">Hi 👋, I'm Tsiyon</h1>
+<div align="center">
 
-<h3 align="center">A passionate Full Stack Engineer</h3>
+  <!-- Name: Raspberry, Outfit Bold -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=F178A2&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=3000&pause=1500&color=A33C64&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B"
+      alt="Hi, I'm Tsiyon 👋"
+    />
+  </picture>
+
+  <br/>
+
+  <!-- Subtitle: Pearl, Space Mono -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=17&duration=2500&pause=1200&color=E6E8EA&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Full-Stack+%26+Backend"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=17&duration=2500&pause=1200&color=465260&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Full-Stack+%26+Backend"
+      alt="Software Engineer | Full-Stack & Backend"
+    />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Profile views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=tabera2&label=Profile%20views&color=A33C64&style=flat"
+    alt="Profile views"
+  />
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabera2&label=Profile%20views&color=0e75b6&style=flat" alt="tabera2" /> </p>
 
