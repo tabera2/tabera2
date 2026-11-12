@@ -1,12 +1,20 @@
-<!-- <h1 align="center">Hi 👋, I'm Tsiyon</h1>
+<!-- <h1 align="center">Hi 👋, I'm Tsiyon</h1>-->
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
+    <img alt="Hi, I'm Tsiyon" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
+  </picture>
+</div>
+
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabera2&label=Profile%20views&color=0e75b6&style=flat" alt="tabera2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabera2" alt="tabera2" /></a> </p>
--->
 
-<div align="center">
+
+<!-- <div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=65&lines=Hi%2C+I'm+Tsiyon+%F0%9F%91%8B">
@@ -24,6 +32,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=tabera2&label=Profile%20Views&color=0D9488&style=flat)
 
 </div>
+-->
 
 - 🌱 I’m currently learning **RAG**
 
